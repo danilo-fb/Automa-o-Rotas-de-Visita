@@ -1,0 +1,8 @@
+{
+"chromeWebSecurity": false,
+"pageLoadTimeout": 300000,
+"viewportWidth": 1536,
+"viewportHeight": 960,
+"includeShadowDom": true
+}
+

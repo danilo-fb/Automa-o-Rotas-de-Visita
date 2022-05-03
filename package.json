@@ -1,0 +1,18 @@
+{
+  "name": "get-started",
+  "version": "1.0.0",
+  "description": "Primeiro exemplo cypress no Mercanet",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Danilo Barboza",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "cypress": "^9.5.1",
+    "cypress-iframe": "^1.0.1",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^1.6.2"
+  }
+}
